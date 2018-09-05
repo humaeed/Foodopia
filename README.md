@@ -1,6 +1,9 @@
 # Foodopia
 restaurant / food review website
 
+# Note 
+Database .sql file provided.
+
 # Developers
 <ul>
   <li><a href="https://github.com/badassiumoxide">Humaeed Ahmed</a></li>
